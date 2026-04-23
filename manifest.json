@@ -1,0 +1,10 @@
+{
+  "id": "copy-on-selection",
+  "name": "Copy on Selection",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Automatically copies highlighted text to the clipboard when the selection changes, mirroring Linux primary-selection behavior.",
+  "author": "Chiara Marcial Martínez",
+  "authorUrl": "https://cofuente.io",
+  "isDesktopOnly": false
+}
