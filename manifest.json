@@ -6,5 +6,5 @@
   "description": "Automatically copies highlighted text to the clipboard when the selection changes, mirroring Linux primary-selection behavior.",
   "author": "Chiara Marcial Martínez",
   "authorUrl": "https://cofuente.io",
-  "isDesktopOnly": false
+  "isDesktopOnly": true
 }
