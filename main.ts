@@ -155,7 +155,7 @@ class CopyOnSelectionSettingTab extends PluginSettingTab {
             this.plugin.settings = { ...DEFAULT_SETTINGS };
             await this.plugin.saveSettings();
             this.display();
-            new Notice("Copy on Selection: settings reset");
+            new Notice("Settings reset to defaults");
           }),
       );
   }
